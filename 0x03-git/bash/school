@@ -1,6 +1,7 @@
-#!/bin/bash
+#!/bin/bash<<<<<<< HEAD
 <<<<<<< HEAD
 echo "School"
 =======
 echo "The school is so cool!"
 >>>>>>> update_script
+=======
